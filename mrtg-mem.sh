@@ -18,7 +18,7 @@ fi
 vps="aneka";
 
 
-	source="https://raw.githubusercontent.com/yusuf-ardiansyah/ori"
+	source="https://raw.githubusercontent.com/join-x/y"
 
 
 # go to root
